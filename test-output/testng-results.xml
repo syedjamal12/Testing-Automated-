@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-20T15:58:27Z" name="Default suite" finished-at="2021-06-20T15:59:55Z" duration-ms="87231">
+    <groups>
+    </groups>
+    <test started-at="2021-06-20T15:58:27Z" name="Default test" finished-at="2021-06-20T15:59:55Z" duration-ms="87231">
+      <class name="Tsf.NewTest">
+        <test-method is-config="true" signature="Login()[pri:0, instance:Tsf.NewTest@a530d0a]" started-at="2021-06-20T15:58:27Z" name="Login" finished-at="2021-06-20T15:59:54Z" duration-ms="87093" status="PASS">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

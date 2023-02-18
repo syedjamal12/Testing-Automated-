@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]">
+  <test parallel="none" name="Default test(failed)" preserve-order="true">
+    <classes>
+      <class name="Tsf.NewTest">
+        <methods>
+          <include name="HomePageLogo"/>
+          <include name="LinkPage"/>
+          <include name="AboutUs"/>
+          <include name="Login"/>
+          <include name="ContactUsPage"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
